@@ -1,4 +1,4 @@
-# Projects
+# Projects (WIP)
 
 ## [Papashan's Project](https://github.com/ToxikSkrrt/Project-Papashans-Rising)
 2D Rogue-like game demo.
