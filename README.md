@@ -11,3 +11,6 @@ Small 2D game in Java.
 
 ## [VideoTracker](https://github.com/ToxikSkrrt/VideoTracker)
 Movement tracking application in Python. Inspired by popular tools used in physics studies.
+
+## [Takuzu](https://github.com/ToxikSkrrt/Takuzu)
+Small puzzle game in C based on the real Takuzu game.
