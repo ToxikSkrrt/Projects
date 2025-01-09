@@ -8,3 +8,6 @@ Shell simulation project in C.
 
 ## [UBGarden](https://github.com/ToxikSkrrt/UBGarden)
 Small 2D game in Java.
+
+## [VideoTracker](https://github.com/ToxikSkrrt/VideoTracker)
+Movement tracking application in Python. Inspired by popular tools used in physics studies.
