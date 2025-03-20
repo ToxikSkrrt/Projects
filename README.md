@@ -4,7 +4,7 @@
 
 2D Rogue-like game demo in Python.
 
-## [Papashan's Rising : Rebirth](https://github.com/ToxikSkrrt/Papashans-Rising-Rebirth)
+## [Papashan's Rising - Rebirth](https://github.com/ToxikSkrrt/Papashans-Rising-Rebirth)
 
 Reboot of the precedent game, but with Unity. (currently in development)
 
