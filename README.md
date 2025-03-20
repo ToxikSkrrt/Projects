@@ -2,7 +2,11 @@
 
 ## [Project : Papashan's Rising](https://github.com/ToxikSkrrt/Project-Papashans-Rising)
 
-2D Rogue-like game demo.
+2D Rogue-like game demo in Python.
+
+## [Papashan's Rising : Rebirth](https://github.com/ToxikSkrrt/Papashans-Rising-Rebirth)
+
+Reboot of the precedent game, but with Unity.
 
 ## [Shell Project](https://github.com/ToxikSkrrt/Shell-project)
 
