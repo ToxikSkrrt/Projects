@@ -1,4 +1,4 @@
-# Projects (WIP)
+# Projects
 
 ## [Project : Papashan's Rising](https://github.com/ToxikSkrrt/Project-Papashans-Rising)
 
