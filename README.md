@@ -16,10 +16,6 @@ Shell simulation project in C.
 
 Website on *localhost* with features like uploading/downloading images, apply filters to them, upvotes/downvotes. There is also a similarity search integrated.
 
-## [UBGarden](https://github.com/ToxikSkrrt/UBGarden)
-
-Small 2D game in Java.
-
 ## [VideoTracker](https://github.com/ToxikSkrrt/VideoTracker)
 
 Movement tracking application in Python. Inspired by popular tools used in physics studies.
@@ -35,3 +31,7 @@ Terminal turn-based RPG in C currently in development.
 ## [Compilation Project](https://github.com/ToxikSkrrt/Compilation-Project)
 
 Full custom language interpreter that contains a lexer, a parser, a variable renamer and some other important files. Made in Ocaml.
+
+## [UBGarden](https://github.com/ToxikSkrrt/UBGarden)
+
+Small 2D game in Java.
