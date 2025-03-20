@@ -34,4 +34,4 @@ Terminal turn-based RPG game in C currently in development.
 
 ## [Compilation Project](https://github.com/ToxikSkrrt/Compilation-Project)
 
-Full custom language support that contains a lexer, a parser, an interpreter and some other important files. Made in Ocaml.
+Full custom language interpreter that contains a lexer, a parser, a variable renamer and some other important files. Made in Ocaml.
