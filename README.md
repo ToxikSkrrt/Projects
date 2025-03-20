@@ -12,6 +12,10 @@ Reboot of the precedent game, but with Unity. (currently in development)
 
 Shell simulation project in C.
 
+## [Software Development Project](https://github.com/ToxikSkrrt/Software-Development-Project)
+
+Website on *localhost* with features like uploading/downloading images, apply filters to them, upvotes/downvotes. There is also a similarity search integrated.
+
 ## [UBGarden](https://github.com/ToxikSkrrt/UBGarden)
 
 Small 2D game in Java.
