@@ -30,7 +30,7 @@ Small puzzle game in C based on the real Takuzu game.
 
 ## [TCG : Terminal C Game](https://github.com/ToxikSkrrt/Terminal-C-Game)
 
-Terminal turn-based RPG game in C currently in development.
+Terminal turn-based RPG in C currently in development.
 
 ## [Compilation Project](https://github.com/ToxikSkrrt/Compilation-Project)
 
