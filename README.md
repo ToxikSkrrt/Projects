@@ -6,7 +6,7 @@
 
 ## [Papashan's Rising : Rebirth](https://github.com/ToxikSkrrt/Papashans-Rising-Rebirth)
 
-Reboot of the precedent game, but with Unity.
+Reboot of the precedent game, but with Unity. (currently in development)
 
 ## [Shell Project](https://github.com/ToxikSkrrt/Shell-project)
 
